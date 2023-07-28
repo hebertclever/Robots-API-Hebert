@@ -1,0 +1,28 @@
+body {
+    background-color: #1e6f5c;
+    margin: 5%;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    
+}
+
+.list {
+  text-align: center;
+  justify-content: center;
+  align-items: center;  
+  margin-top: -2rem;
+  display: inline-flex;
+}
+
+
+.card {
+  width: 300px;  
+  background-color: #91c788;
+  margin: 1.7rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  color: #464f41;
+  margin-bottom: 60px;
+}
